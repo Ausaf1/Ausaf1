@@ -14,8 +14,6 @@
 
 - 👨‍💻 Know more about me -> **[My Portfolio](https://ausaf.netlify.app/)**
 
-- 📫 How to reach me **ausaf.esrar@gmail.com**
-
 - ⚡ Hobby fact **I like playing cricket and chess.**
 
 ## 🚀 Languages and Tools:
