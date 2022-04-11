@@ -19,8 +19,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://clanguage.com" target="_blank"> <img src="https://img.icons8.com/fluency-systems-filled/48/000000/circled-c.png"/> </a>
-    <a href="https://c++language.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/fluency-systems-filled/48/000000/circled-c.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
