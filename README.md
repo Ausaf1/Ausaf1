@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Know more about me -> **[My Portfolio](https://ausaf.netlify.app/)**
+- 👨‍💻 Know more about me -> **[My Portfolio](https://ausaf-portfolio.netlify.app/)**
 
 - ⚡ Hobby fact **I like playing cricket and chess.**
 
