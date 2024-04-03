@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Flutter](https://flutter.dev/)**
+- 🔭 I enjoy doing **Competitive Programming.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
