@@ -6,15 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I enjoy doing **Competitive Programming.**
+- 🔭 I enjoy **Vibe Coding.**
 
 - 🌱 I’m currently learning **Haskell.**
 
-- 👯 ASDE **Juspay**
+- 👯 SDE-1 **Juspay**
 
-- 👨‍💻 Know more about me -> **[My Portfolio](https://ausaf-portfolio.netlify.app/)**
-
-- ⚡ Hobby fact **I like playing cricket and chess.**
+- ⚡ Hobby fact **I like playing badminton and cricket.**
 
 ## 🚀 Languages and Tools:
 
